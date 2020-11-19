@@ -1,0 +1,223 @@
+  
+  @media screen and (max-width:980px) {
+      fieldset {
+          font-size: 12px;
+      }
+      .ism {
+        width: 90%;
+        margin-top: 5px;
+        border: 1px solid black;
+        border-radius: 5px;
+      }
+      .familiya {
+        width: 90%;
+        margin-top: 5px;
+        border-radius: 5px;
+        border: 1px solid black;
+       }
+       .yosh {
+        width: 90%;
+        margin-top: 5px;
+        border-radius: 5px;
+        border: 1px solid black;
+       }
+       .jinschiziq {
+        width: 80%;
+        border-radius: 10px;
+       }
+       .email {
+        width: 90%;
+        margin-top: 5px;
+        border-radius: 5px;
+        border: 1px solid black;
+       }
+       .parol1 {
+        width: 90%;
+        margin-top: 5px;
+        border: 1px solid black;
+        border-radius: 5px;
+        
+      }
+      .parol2 {
+        width: 90%;
+        margin-top: 5px;
+        border-radius: 5px;
+        border: 1px solid black;
+       }
+       .kirish {
+        width: 90%;
+        margin-top: 0px;
+        src: url('login/login.html');
+      }
+      .login {
+        width: 90%;
+        margin-top: 5px;
+               }
+        .checkbox {
+        margin-top: 5px;
+        float: left;
+        }
+        .checkboxl {
+            font-size: 12px;
+        }
+        body {
+            padding: 0;
+            margin:0;
+            background-size: cover;
+            background-repeat: repeat;
+            font-family: sans-serif;
+        }
+  }
+  @media screen and (min-width:980px) {
+    fieldset {
+        font-size: 30px;
+        margin-top: 10px;
+        border: 1px solid black;
+    }
+    .ism {
+        width: 40%;
+        padding: 15px;
+        float: left;
+        margin-top: 10px;
+        border: 1px solid black;
+        border-radius: 15px;
+    }
+    .familiya {
+        width: 40%;
+        padding: 15px;
+        float: right;
+        margin-top: 10px;
+        border: 1px solid black;
+        border-radius: 15px;
+    }
+    .yosh {
+        width: 93%;
+        padding: 15px;
+        border-radius: 15px;
+        margin-top: 10px;
+        border: 1px solid black;
+       }
+    .jinschiziq {
+        width: 90%;
+        height: 50px;
+        margin-top: 8px;
+        border-radius: 15px;
+    }
+    #erkak {
+        float: left;
+    }
+    #ayol {
+        float:right;
+    }
+    #ayoll {
+        float: right;
+        text-align: right;
+    }
+    .email {
+        width: 93%;
+        padding: 15px;
+        border-radius: 15px;
+        margin-top: 10px;
+        border: 1px solid black;
+       }
+       .parol1 {
+        width: 40%;
+        border-radius: 15px;
+        padding: 15px;
+        float: left;
+        margin-top: 10px;
+        border: 1px solid black;
+    }
+     .parol2 {
+        width: 40%;
+        padding: 15px;
+        float: right;
+        border-radius: 15px;
+        margin-top: 10px;
+        border: 1px solid black;
+    }
+    .kirish {
+        width: 49%;
+        padding: 15px;
+        float: left;
+        margin-top: 0px;
+        font-size: 30px;
+        border: 1px solid black;
+    }
+    .login {
+        width: 49%;
+        padding: 15px;
+        float: right;
+        margin-top: 0px;
+        font-size: 30px;
+        border: 1px solid black;
+    }
+    .checkbox {
+        margin-top: 20px;
+        float: left;
+       }
+       .checkboxl {
+        font-size: 30px;
+    }
+    body {
+        padding: 0;
+        margin:0;
+        background-size: cover;
+        background-repeat: repeat;
+        font-family: sans-serif;
+    }
+}
+
+
+ form {
+     max-width: 40%;
+     border: white 5px solid;
+     margin: auto;
+     background-color:white;
+     position: relative;
+     border-radius: 10px;
+ }
+fieldset {
+    border: white;
+    border-top: solid 1px black;
+    margin: auto;
+    background-color:white;
+    position: relative;
+    width:80%;
+}
+legend {
+    margin: auto;
+    color: black;
+}
+input {
+    margin: auto;
+}
+.jinschiziq {
+    float: left;
+    background-color: white;    
+}
+.radio {
+    background-color:rgb(247, 247, 247);
+}
+input {
+    background-color: white;
+}
+form {
+    background-color:rgba(184, 21, 29, 0);
+}
+body {
+    background-color:rgb(80, 68, 190);
+}
+fieldset {
+    background-color:rgba(41, 78, 243, 0);
+}
+.kirish {
+    background-color: rgb(26, 248, 37);
+    border: rgb(12, 238, 23);
+    color: white;
+}
+.login {
+    background-color: rgb(26, 248, 37);
+    border: rgb(12, 238, 23);
+    color: white;
+}
