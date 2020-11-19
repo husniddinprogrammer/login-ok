@@ -34,8 +34,8 @@
         border:blue 1px;
         padding: 3px;
                }
-        form {
-                max-width: 50%;
+               fieldset {
+                max-width: 40%;
                 margin: auto;
                 background-color:none;
                 position: relative;
@@ -85,7 +85,7 @@
     
 
     }
-    form {
+    fieldset  {
         max-width: 30%;
         margin: auto;
         position: relative;
@@ -100,8 +100,7 @@ fieldset {
    border: solid 1px black;
    margin: auto;
    background-color:white;
-   position: relative;
-   width:80%;
+
 }
 img {
     height: 25%;
